@@ -1,0 +1,6 @@
+﻿  Banque Royale.cpp
+c:\users\zhangzhibo\source\repos\prjcppconbankatm\prjcppconbankatm\atmlib.h(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\zhangzhibo\source\repos\prjcppconbankatm\prjcppconbankatm\atmlib.h(30): warning C4018: '<=': signed/unsigned mismatch
+c:\users\zhangzhibo\source\repos\prjcppconbankatm\prjcppconbankatm\atmlib.h(42): warning C4018: '<=': signed/unsigned mismatch
+c:\users\zhangzhibo\source\repos\prjcppconbankatm\prjcppconbankatm\banque royale.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  prjCPPConBankATM.vcxproj -> C:\Users\zhangzhibo\source\repos\prjCPPConBankATM\Debug\prjCPPConBankATM.exe
